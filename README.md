@@ -1,63 +1,57 @@
- ## Hey there! I'm Paschal Alaemezie 👋
+ <h1 align="center">Hi there, I'm Paschal Alaemezie 👋</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+<h3 align="center">Senior AI Engineer | Generative AI & Autonomous Agents</h3>
 
-💡  &nbsp;I like exploring new technologies and developing software solutions and quick hacks.\
-🎓 &nbsp;Studied Electrical and Electronic Engineering at the Federal University of Technology, Owerri, Nigeria.\
-🌱 &nbsp;Learning more about Artificial Intelligence, DevOps, Fullstack Software development, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I like reading good books, engaging in community activities, and writing articles.\
-💬 &nbsp;Feel free to reach out to me for any job opening, internship, or just for some interesting discussions.\
-📄 &nbsp;Have a look at my [Résumé](https://1drv.ms/b/s!Aj-5pmKi3tjXlTCJI7cGelPRAb26?e=ef39rH) for more details about me. Feedback and suggestions are appreciated!
+<p align="center">
+  <a href="https://www.linkedin.com/in/paschal-alaemezie/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/@palaemezie"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+### 👨🏻‍💻 &nbsp;About Me
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+I am a **Senior AI Engineer** specializing in cutting-edge **Generative AI, 3D Computer Vision**, and **Autonomous Agentic Workflows**. I have a strong background in architecting production-grade AI systems, scaling robust API layers, and designing complex multi-agent solutions. 
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+💡 &nbsp;**Current Focus:** Developing advanced 3D generation pipelines (like **SculptorAI** featuring octree-based rectified flow DiT) and building complex, state-of-the-art LLM-powered applications using **LangGraph, AutoGen, and CrewAI**.\
+🎓 &nbsp;**Background:** Electrical and Electronic Engineering at the Federal University of Technology, Owerri (FUTO). Currently preparing for a PhD focusing on Artificial Intelligence and Machine Learning.\
+🚀 &nbsp;**Key Expertise:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), 3D Geometry Pipelines, Vector Databases, and Scalable API Architecture.\
+💬 &nbsp;**Let's Talk About:** AI system architecture, Agentic design patterns, scaling ML models to production, or tech leadership.
 
-![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+📄 &nbsp;[Check out my Résumé](https://1drv.ms/w/c/d7d8dea262a6b93f/IQBsozmlkrf2Rp24G96ddeARAe-_pTxAsCbJQBmYoDk4FLI?e=ao71L0) | Feedback and suggestions are appreciated!
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen?style=flat&logo=mongodb)
+### 🏆 &nbsp;Key Achievements & Recent Work
 
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat&logo=microsoft-azure)
+- **SculptorAI & 3D Generative Pipelines:** Architecting and optimizing production-grade 3D generation pipelines, implementing advanced geometry extraction (Flash vs. Hierarchical octree), and refining tensor processing workflows for production rendering.
+- **Autonomous AI Agents:** Extensive development of complex, multi-agent AI ecosystems using **LangGraph**, **CrewAI**, and **AutoGen** for enterprise-grade autonomous tasks and Agentic workflows.
+- **RAG & Unstructured Data:** Building robust Retrieval-Augmented Generation (RAG) systems using **LlamaIndex** and **LangChain**, integrated with advanced Vector Databases and optimal unstructured data preprocessing strategies.
+- **Production-Ready Architecture:** Designing resilient API layers for AI services featuring caching, rate limiting, load balancing, pagination, and high-performance scaling.
+- **Real-World AI Projects:** Deep, hands-on portfolio spanning Sentiment Analysis (DistilBERT), Fraud Warehousing, Knowledge Graphs, Computer Vision workflows, and integrating open-source LLMs (Ollama, DeepSeek).
+
+---
+
+### 🛠 &nbsp;Technical Skills Matrix
+
+- **Generative AI & Deep Learning:** Stable Diffusion XL, TripoSG (FP16 Rectified Flow DiT), MV-Adapter SDXL, ControlNet, IP-Adapter, LaMa Inpainting, RealESRGAN, DINOv2, VAE SDF Decoding.
+- **Agentic AI & RAG:** LangGraph, CrewAI, AutoGen, Corrective RAG (CRAG), OpenAI Function Calling, Assistants API, Knowledge Graphs, ChromaDB, Tavily AI Search.
+- **MLOps, DevOps & Infrastructure:** Docker, Kubernetes (k8s/kind), NGINX-Ingress, KEDA Autoscaling, Prometheus (RED/GPU metrics), Grafana, Loki, GitHub Actions, CI/CD, Cloudflare R2/CDN.
+- **Backend & Distributed Systems:** FastAPI, Celery, Redis (Pub/Sub, Lua), WebSockets, RESTful APIs, SQLAlchemy, Gradio.
+- **Web3 & Blockchain:** Polygon Safe (Gnosis Safe), Web3.py, safe-eth-py.
 
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/palaemezie">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=palaemezie&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=palaemezie&layout=compact&langs_count=8&theme=buefy"/>
-</a>
+  <a href="https://github.com/palaemezie">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palaemezie&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaemezie&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
 </p>
-
----
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Adopting Blockchain Solutions in the Enterprise](https://medium.com/@P_Alaemezie/adopting-blockchain-solutions-in-the-enterprise-549633c12aef)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
-<a href="https://www.linkedin.com/in/paschal-alaemezie/"><img src="https://img.shields.io/badge/-Paschal%20Alaemezie%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/@palaemezie"><img src="https://img.shields.io/badge/%40PAlaemezie-blue?style=flat&logo=twitter&logoColor=lightblue"/></a>
+  <a href="https://github.com/palaemezie">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=palaemezie&theme=radical&hide_border=true"/>
+  </a>
 </p>
