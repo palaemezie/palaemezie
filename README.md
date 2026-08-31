@@ -18,7 +18,7 @@ I am a **Senior AI Engineer** specializing in cutting-edge **Generative AI, 3D C
 🚀 &nbsp;**Key Expertise:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), 3D Geometry Pipelines, Vector Databases, and Scalable API Architecture.\
 💬 &nbsp;**Let's Talk About:** AI system architecture, Agentic design patterns, scaling ML models to production, or tech leadership.
 
-📄 &nbsp;[Check out my Résumé](https://1drv.ms/w/c/d7d8dea262a6b93f/IQBsozmlkrf2Rp24G96ddeARAe-_pTxAsCbJQBmYoDk4FLI?e=ao71L0) | Feedback and suggestions are appreciated!
+📄 &nbsp;[Check out my resume](https://1drv.ms/w/c/d7d8dea262a6b93f/IQBsozmlkrf2Rp24G96ddeARAe-_pTxAsCbJQBmYoDk4FLI?e=ao71L0) | Feedback and suggestions are appreciated!
 
 ---
 
